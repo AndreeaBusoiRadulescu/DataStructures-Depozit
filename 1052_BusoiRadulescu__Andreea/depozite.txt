@@ -1,0 +1,7 @@
+1,DepozitA,Pitesti,100.0,2000.0,5
+21,DepozitG,Campulung,50.0,1000.0,7
+4,DepozitB,Pitesti,200.0,4000.0,10
+10,DepozitD,Bucuresti,300.0,6000.0,4
+6,DepozitC,Timisoara,150.0,3000.0,9
+17,DepozitF,Ploiesti,200.0,4000.0,12
+13,DepozitE,Cluj,450.0,8000.0,11
